@@ -1,5 +1,5 @@
 <?php
-
+echo vip;die;
 namespace App;
 
 use Illuminate\Auth\MustVerifyEmail;
