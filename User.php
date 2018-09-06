@@ -1,5 +1,7 @@
 <?php
 
+
+
 namespace App;
 
 use Illuminate\Auth\MustVerifyEmail;
